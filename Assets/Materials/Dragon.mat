@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dragon
+  m_Shader: {fileID: 4800000, guid: 946e1091902eeba41a9bd7c05d860a2c, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _IBLMODE_OFF
+  - _SPEC_ISO
+  - _USE_NORMAL_MAP_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: 406e4e5cf1696ac43b1093b490885e76, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseMap:
+        m_Texture: {fileID: 2800000, guid: a3a4238e8f48b1645a731e2806e7be47, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: a834379b3d57f2f4db78e4d8e77695b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RoughnessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TangentMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AnisoU: 1
+    - _AnisoV: 1
+    - _Clipping: 0
+    - _Cutoff: 0.5
+    - _Detail: 9
+    - _DstBlend: 0
+    - _FresnelWidth: 0.011
+    - _IBLMode: 0
+    - _NormalScale: 1.3
+    - _ReflectionExposure: 9.8
+    - _ReflectionFactor: 0.78
+    - _RefractionFactor: 1
+    - _Spec: 0
+    - _SpecularPower: 1.33
+    - _SrcBlend: 1
+    - _USE_NORMAL_MAP: 1
+    - _ZWrite: 1
+    - _diffuseFactor: 1
+    - _etaRatio: 0.67
+    - _metallicFactor: 0
+    - _roughnessFactor: 0.242
+    - _shadowFactor: 0.881
+    m_Colors:
+    - _TintColor: {r: 0.9169811, g: 0.9169811, b: 0.9169811, a: 1}
+  m_BuildTextureStacks: []

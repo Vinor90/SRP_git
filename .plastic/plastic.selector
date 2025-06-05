@@ -1,0 +1,4 @@
+repository "SRP_06 2025-06-02_22-09-02/SRP_06@10170885480612@cloud"
+  path "/"
+    br "/main"
+    co "/main"

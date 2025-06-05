@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plitka
+  m_Shader: {fileID: 4800000, guid: 946e1091902eeba41a9bd7c05d860a2c, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _IBLMODE_OFF
+  - _SPEC_ISO
+  - _USE_NORMAL_MAP_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CubeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseMap:
+        m_Texture: {fileID: 2800000, guid: 1bec2753034edd2439c4d6fea906ceab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 84f3dfe8d5ae28542b77433353c67047, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RoughnessMap:
+        m_Texture: {fileID: 2800000, guid: 329e447299a08d0429a350ac1db667a0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TangentMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AnisoU: 1
+    - _AnisoV: 1
+    - _Clipping: 0
+    - _Cutoff: 0.5
+    - _Detail: 7.51
+    - _DstBlend: 0
+    - _FresnelWidth: 1
+    - _IBLMode: 0
+    - _NormalScale: 1
+    - _ReflectionExposure: 1.64
+    - _ReflectionFactor: 1
+    - _RefractionFactor: 1
+    - _Spec: 0
+    - _SpecularPower: 2
+    - _SrcBlend: 1
+    - _USE_NORMAL_MAP: 1
+    - _ZWrite: 1
+    - _diffuseFactor: 1
+    - _etaRatio: 1.4
+    - _metallicFactor: 0
+    - _roughnessFactor: 1
+    - _shadowFactor: 0.506
+    m_Colors:
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
