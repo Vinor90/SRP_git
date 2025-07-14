@@ -2,7 +2,7 @@
 ScriptableRenderPipeline 
 Vinogradov Maksim
 
-Переделал проект. Версия Unity 2022.3.62f
+Версия Unity 2022.3.62f
 
 3 сцены: Sample scene, Dots, Compute shader
 
